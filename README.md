@@ -11,7 +11,7 @@ Install iOS 13 on A8 Devices!
 > [!NOTE]
 > Status: On development (This project has not been released yet nor finished, once it's done, it will be posted in here)
 >
->  Kernel has been booted on the iPhone 6
+>  Darwin 19 Kernel has been booted on the iPhone 6
 
 Tested on: iPhone 6
 
