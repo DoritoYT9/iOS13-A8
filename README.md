@@ -1,6 +1,6 @@
 # iOS13-A8
 
-<img width="256" height="256" alt="2c1e5144-8fef-4598-a19c-4deb2a00fd41-Photoroom" src="https://github.com/DoritoYT9/iOS13-A8/blob/main/logo/logoo.png" />
+<img width="120" height="120" alt="2c1e5144-8fef-4598-a19c-4deb2a00fd41-Photoroom" src="https://github.com/DoritoYT9/iOS13-A8/blob/main/logo/logoo.png" />
 
 Install iOS 13 on A8 Devices!
 
