@@ -6,5 +6,7 @@ Status: On development (This project has not been released yet nor finished, onc
 Tested on: iPhone 6
 
 Credits:
+
 Dorito: Creator and Developer
+
 That's really it 😭
