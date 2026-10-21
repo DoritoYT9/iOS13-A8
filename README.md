@@ -7,14 +7,18 @@ Install iOS 13 on A8 Devices!
 > [!WARNING]
 > This project can brick your device if you dont follow the instructions!
 >
->  Use at your own risk.
+> Use at your own risk.
 >
->  If you encounter any problems please report immediately at the "Issues" tab
+> If you encounter any problems please report immediately at the "Issues" tab
 
 > [!NOTE]
 > Status: On development (This project has not been released yet nor finished, once it's done, it will be posted in here)
+
+> [!UPDATES]
+> I was able to boot iOS 13 (Darwin 19) kernel on my device
 >
->  Darwin 19 Kernel has been booted on the iPhone 6
+> 10/21/2026
+> I was finally able to continue with the project since I finally was able to get hackintosh working on my GTX 1650
 
 Tested on: iPhone 6
 
