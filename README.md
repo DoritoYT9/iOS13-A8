@@ -14,7 +14,7 @@ Install iOS 13 on A8 Devices!
 > [!NOTE]
 > Status: On development (This project has not been released yet nor finished, once it's done, it will be posted in here)
 
-> [!UPDATES]
+> [!NOTE]
 > I was able to boot iOS 13 (Darwin 19) kernel on my device
 >
 > 10/21/2026
